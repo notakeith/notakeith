@@ -4,4 +4,4 @@ I'm a beginner programmer from Russia, passionate about exploring the world of s
 
 ## My projects
 
-☕[my-notes-app](https://github.com/user/repo/blob/branch/other_file.md) - my studing project, webapp based on Spring framework
+☕[my-notes-app](https://github.com/notakeith/my-notes-app) - my studing project, webapp based on Spring framework
