@@ -2,7 +2,7 @@
 
 I'm a beginner Java Software Engineer from Russia, passionate about exploring the world of Information technology and especially software development
 
-**Stack:** Python(TKinter, aiogram, pymongo), Mongo, Java(Spring), Docker, Linux
+**Stack:** Python(TKinter, Aiogram, PyMongo), Mongo, Java(Spring), Docker, Linux
 
 **My projects**
 
