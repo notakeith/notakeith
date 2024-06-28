@@ -6,4 +6,4 @@ I'm a beginner Java Software Engineer from Russia, passionate about exploring th
 
 **My projects**
 
-<img src="https://img.shields.io/badge/Java-orange"> <img src="https://img.shields.io/badge/Spring-white?logo=spring"> <sup> [my-notes-app](https://github.com/notakeith/my-notes-app)  my studing project, webapp based on Spring framework </sup>
+<img src="https://img.shields.io/badge/Java-orange"> <img src="https://img.shields.io/badge/Spring-white?logo=spring"> <sup> [my-notes-app](https://github.com/notakeith/my-notes-app)  my studing project, CRUD notes webapp based on Spring framework </sup>
