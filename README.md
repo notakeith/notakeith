@@ -1,9 +1,27 @@
-**Hi there 👋**
+### Hi there 👋
 
-I'm a beginner Java Software Engineer from Russia, passionate about exploring the world of Information technology and especially software development
+👨‍💻 I'm Nikita
 
-**Stack:** Java(Spring), Python(TKinter, Aiogram, PyMongo), Mongo, Docker, Linux
+🎓 Currently studying Software Engineering at ITMO
 
-<!-- **My projects**
+🌱 Interested in information technology and software development.  
 
-<img src="https://img.shields.io/badge/Java-orange"> <img src="https://img.shields.io/badge/Spring-6DB33F?&logo=spring&logoColor=white"> <sup> [my-notes-app](https://github.com/notakeith/my-notes-app)  my studing project, CRUD notes webapp based on Spring framework </sup>-->
+👥 Currently working with 
+<a href="https://github.com/sparkling-duo">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/src/sparkling-duo-dark.png" />
+    <source media="(prefers-color-scheme: light)" srcset="/src/sparkling-duo-light.png" />
+    <img src="/src/sparkling-duo-light.png" height="16" alt="Sparkling Duo logo" />
+  </picture>
+</a>
+
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,java,androidstudio,spring,mongodb,postgresql,docker,linux,git" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ai,ae,pr,ps,figma,obsidian,latex,js,html" />
+</p>
+
+<!-- Currently I'm working on ... — ... -->
