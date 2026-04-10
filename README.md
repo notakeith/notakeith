@@ -1,15 +1,17 @@
-### Hi there 👋
+**Software Engineering @ ITMO**
 
-👨‍💻 I'm Nikita
+I build systems, structure data, and explore the intersection of software architecture and visual design.
 
-🎓 Currently studying Software Engineering at ITMO
+### / tech stack
 
-🌱 Interested in information technology and software development.
-
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,python,java,androidstudio,spring,mongodb,postgresql,docker,linux,git" />
+**Architecture & Backend** <p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,postgresql,mongodb,docker,bash" />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ai,ae,pr,ps,figma,obsidian,latex,js,html" />
+
+**Core Languages** <p align="left">
+  <img src="https://skillicons.dev/icons?i=java,cs,cpp,python" />
+</p>
+
+**Design & Workspace** <p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,obsidian,latex" />
 </p>
