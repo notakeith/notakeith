@@ -12,6 +12,7 @@ I build systems, structure data, and explore the intersection of software archit
   <img src="https://skillicons.dev/icons?i=java,cs,cpp,python" />
 </p>
 
-**Design & Workspace** <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,obsidian,latex" />
+**Tools & Workflow** <p align="left">
+  <img src="https://skillicons.dev/icons?i=obsidian,latex" />
 </p>
+
