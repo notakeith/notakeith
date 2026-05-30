@@ -2,17 +2,19 @@
 
 I build systems, structure data, and explore the intersection of software architecture and visual design.
 
+Currently working on [botaemeveryday](https://github.com/botaemeveryday) projects and studing Java
+
 ### / tech stack
 
 **Architecture & Backend** <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,postgresql,mongodb,docker,bash" />
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=spring,hibernate,postgresql,docker" />
 </p>
 
 **Core Languages** <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cs,cpp,python" />
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=java,csharp,cpp,python" />
 </p>
 
 **Tools & Workflow** <p align="left">
-  <img src="https://skillicons.dev/icons?i=obsidian,latex" />
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=typst,claudeai,googlegemini" />
 </p>
 
