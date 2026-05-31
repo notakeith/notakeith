@@ -13,8 +13,3 @@ Currently working on [botaemeveryday](https://github.com/botaemeveryday) project
 **Core Languages** <p align="left">
   <img src="https://skills.syvixor.com/api/icons?perline=15&i=java,csharp,cpp,python" />
 </p>
-
-**Tools & Workflow** <p align="left">
-  <img src="https://skills.syvixor.com/api/icons?perline=15&i=typst,claudeai,googlegemini" />
-</p>
-
