@@ -1,6 +1,6 @@
 **Software Engineering @ ITMO**
 
-I enjoy understanding how complex software systems work and designing them to remain simple, maintainable, and reliable. I'm particularly interested in backend architecture, distributed systems, and software engineering.
+I enjoy understanding how complex software systems work and designing them to remain simple, maintainable, and reliable. I'm particularly interested in backend architecture, distributed systems, and designing reliable software.
 
 ### / tech stack
 
