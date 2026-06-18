@@ -1,8 +1,6 @@
 **Software Engineering @ ITMO**
 
-I build systems, structure data, and explore the intersection of software architecture and visual design.
-
-Currently working on [botaemeveryday](https://github.com/botaemeveryday) projects and studying Java
+I enjoy understanding how complex software systems work and designing them to remain simple, maintainable, and reliable. I'm particularly interested in backend architecture, distributed systems, and software engineering.
 
 ### / tech stack
 
